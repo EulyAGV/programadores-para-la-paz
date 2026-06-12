@@ -1,0 +1,12 @@
+Enlace del repositorio GitHub:
+
+https://github.com/EulyAGV/programadores-para-la-paz/tree/main/MODULO2/SEMANA5
+
+La carpeta MODULO2/SEMANA5 se encuentra publicada en el repositorio y contiene los archivos solicitados para la actividad de la Semana 5:
+
+preguntas-semana5.txt
+server.js
+pruebas.txt
+conceptos-api.txt
+reflexion-semana5.txt
+package.json
