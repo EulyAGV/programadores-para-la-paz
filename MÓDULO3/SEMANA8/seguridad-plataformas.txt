@@ -1,0 +1,5 @@
+1. Proteger las credenciales de acceso de los usuarios.
+2. No exponer datos personales ni información sensible.
+3. Utilizar conexiones seguras y cifradas.
+4. Registrar los accesos y actividades importantes.
+5. Limitar permisos según el rol de cada usuario.
